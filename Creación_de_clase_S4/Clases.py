@@ -1,3 +1,5 @@
+# Programa orientado a objetos que utiliza herencia y polimorfismo para calcular -
+# propiedades geométricas de un cono y una esfera.
 import math
 import os
 
