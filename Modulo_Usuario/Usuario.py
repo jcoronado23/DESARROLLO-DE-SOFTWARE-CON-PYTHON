@@ -11,12 +11,20 @@ class Usuario:
 
     def mostrarDatos(self):
 
-        fecha_nacimiento = datetime(self.anno_nacimiento, self.mes_nacimiento, self.dia_nacimiento)
+        try:
+            fecha_nacimiento = datetime(self.anno_nacimiento, self.mes_nacimiento, self.dia_nacimiento)
+            
+            hoy = datetime.now()
 
-        hoy = datetime.now()
+            edad = hoy.year - fecha_nacimiento.year
+            if( hoy.month, hoy.day ) < (fecha_nacimiento.month, fecha_nacimiento.day):
+                edad -= 1
 
-        edad = hoy.year - fecha_nacimiento.year
-        if( hoy.month, hoy.day ) < (fecha_nacimiento.month, fecha_nacimiento.day):
-            edad -= 1
+            nombre_mayuscula = self.nombre.upper()
 
-        print(f"Cedula: {self.cedula}, y nombre: {self.nombre}, y su edad es {edad}")
+            print(f"Cedula: {self.cedula}, y nombre: {nombre_mayuscula}, y su edad es {edad}") #console.log()
+
+        except Exception:
+            print("La fecha no tiene el formato correcto")
+
+        

@@ -1,6 +1,6 @@
-from datetime import datetime, date
 import Usuario
 import random
+import misExcepciones
 
 usuarios = []
 
@@ -9,23 +9,34 @@ usuarios = []
 #CREATE
 def crearUsuario():
 
-    cedula = random.randint(100000000, 899999999)
+    #cedula = random.randint(100000000, 899999999)
 
-    for usuario in usuarios:
-        if usuario.cedula == cedula:
-            print("Esta cedula ya esta en el registro")
-            return
+    
 
     nombre = input("Ingrese su nombre: ")
 
-    anno = int(input("Ingrese su anno de nacimiento (dd): "))
-    mes = int(input("Ingrese su mes de nacimiento (mm): "))
-    dia = int(input("Ingrese su dia de nacimiento (yyyy): "))
+    try:
 
-    nuevo_usuario = Usuario.Usuario(cedula, nombre, anno, mes, dia )
-    usuarios.append(nuevo_usuario)  
+        anno = int(input("Ingrese su anno de nacimiento: "))
+        mes = int(input("Ingrese su mes de nacimiento: "))
+        dia = int(input("Ingrese su dia de nacimiento: "))
 
-    print("Usuario agregado satisfactoriamente")
+        cedula = misExcepciones.validar_cedula(input("Ingrese su cedula con este formato 4-0111-0222: "))
+
+        for usuario in usuarios:
+            if usuario.cedula == cedula:
+                print("Esta cedula ya esta en el registro")
+                return
+
+        nuevo_usuario = Usuario.Usuario(cedula, nombre, anno, mes, dia )
+        usuarios.append(nuevo_usuario)  
+
+        print("Usuario agregado satisfactoriamente")
+
+    except ValueError:
+        print("Ingreso un valor con error, por ende no se agrego el usuario.")
+    except misExcepciones.FormatoCedulaError as fce:
+        print("Error", fce)
 
 #READ 
 def leerUsuarios():
@@ -37,18 +48,22 @@ def leerUsuarios():
     for usuario in usuarios:
         usuario.mostrarDatos()
     
-def buscarUsuario(cedula):
-    for usuario in usuarios:
-        if usuario.cedula == cedula:
-            return usuario
-    
-    return None
+def buscarUsuario():
+    try:
+        cedula = misExcepciones.validar_cedula(input("Ingrese su cedula con este formato 4-0111-0222: "))
+        for usuario in usuarios:
+            if usuario.cedula == cedula:
+                return usuario
+        
+        return None
+    except misExcepciones.FormatoCedulaError as fce:
+        print("Error", fce)
+
+
 
 #UPDATE
 def actualizarUsuario():
-
-    cedula = input("Digite su cedula: ")
-    usuario = buscarUsuario(cedula)
+    usuario = buscarUsuario()
 
     if usuario:
         nombre = input("Digite su nuevo nombre: ")
@@ -60,8 +75,7 @@ def actualizarUsuario():
         print("No se ha encontrado el usuario que quiere modificar.")
 
 def eliminarUsuario():
-    cedula = input("Digite su cedula: ")
-    usuario = buscarUsuario(cedula)
+    usuario = buscarUsuario()
 
     if usuario:
         usuarios.remove(usuario)
