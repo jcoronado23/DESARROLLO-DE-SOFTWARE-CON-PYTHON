@@ -1,0 +1,348 @@
+{
+  "diccionario": [
+    {
+      "palabra": "hola",
+      "significado": "Expresión de saludo"
+    },
+    {
+      "palabra": "adiós",
+      "significado": "Expresión de despedida"
+    },
+    {
+      "palabra": "amor",
+      "significado": "Sentimiento intenso de afecto hacia una persona"
+    },
+    {
+      "palabra": "amigo",
+      "significado": "Persona con la que se mantiene una relación de afecto"
+    },
+    {
+      "palabra": "casa",
+      "significado": "Edificio destinado a vivienda"
+    },
+    {
+      "palabra": "agua",
+      "significado": "Líquido incoloro, inodoro e insípido esencial para la vida"
+    },
+    {
+      "palabra": "fuego",
+      "significado": "Reacción química que produce luz y calor"
+    },
+    {
+      "palabra": "luz",
+      "significado": "Radiación electromagnética visible al ojo humano"
+    },
+    {
+      "palabra": "oscuridad",
+      "significado": "Ausencia de luz"
+    },
+    {
+      "palabra": "noche",
+      "significado": "Período de tiempo entre el atardecer y el amanecer"
+    },
+    {
+      "palabra": "día",
+      "significado": "Período de 24 horas o tiempo entre el amanecer y el atardecer"
+    },
+    {
+      "palabra": "sol",
+      "significado": "Estrella central del sistema solar"
+    },
+    {
+      "palabra": "luna",
+      "significado": "Satélite natural de la Tierra"
+    },
+    {
+      "palabra": "estrella",
+      "significado": "Cuerpo celeste que brilla por luz propia"
+    },
+    {
+      "palabra": "árbol",
+      "significado": "Planta leñosa de tallo único y ramificado"
+    },
+    {
+      "palabra": "flor",
+      "significado": "Órgano reproductor de las plantas con pétalos"
+    },
+    {
+      "palabra": "animal",
+      "significado": "Ser vivo que puede moverse voluntariamente"
+    },
+    {
+      "palabra": "perro",
+      "significado": "Mamífero doméstico de la familia de los cánidos"
+    },
+    {
+      "palabra": "gato",
+      "significado": "Mamífero felino doméstico de pequeño tamaño"
+    },
+    {
+      "palabra": "pájaro",
+      "significado": "Animal vertebrado con plumas y alas"
+    },
+    {
+      "palabra": "pez",
+      "significado": "Animal acuático vertebrado con branquias"
+    },
+    {
+      "palabra": "libro",
+      "significado": "Conjunto de páginas encuadernadas que contiene un texto"
+    },
+    {
+      "palabra": "música",
+      "significado": "Arte de combinar sonidos de manera ordenada"
+    },
+    {
+      "palabra": "canción",
+      "significado": "Composición musical con letra para cantar"
+    },
+    {
+      "palabra": "pintura",
+      "significado": "Arte de representar imágenes sobre una superficie"
+    },
+    {
+      "palabra": "color",
+      "significado": "Sensación producida por los rayos de luz en el ojo"
+    },
+    {
+      "palabra": "rojo",
+      "significado": "Color del espectro situado entre el naranja y el magenta"
+    },
+    {
+      "palabra": "azul",
+      "significado": "Color del cielo despejado"
+    },
+    {
+      "palabra": "verde",
+      "significado": "Color del pasto y las hojas"
+    },
+    {
+      "palabra": "amarillo",
+      "significado": "Color del oro y el limón"
+    },
+    {
+      "palabra": "blanco",
+      "significado": "Color de la nieve y la leche"
+    },
+    {
+      "palabra": "negro",
+      "significado": "Ausencia de color o luz"
+    },
+    {
+      "palabra": "comida",
+      "significado": "Sustancia que se ingiere para nutrirse"
+    },
+    {
+      "palabra": "pan",
+      "significado": "Alimento hecho con harina, agua y sal, horneado"
+    },
+    {
+      "palabra": "fruta",
+      "significado": "Fruto comestible de ciertas plantas"
+    },
+    {
+      "palabra": "verdura",
+      "significado": "Hortaliza comestible de plantas herbáceas"
+    },
+    {
+      "palabra": "carne",
+      "significado": "Parte muscular de los animales que se usa como alimento"
+    },
+    {
+      "palabra": "leche",
+      "significado": "Líquido blanco nutritivo producido por las glándulas mamarias"
+    },
+    {
+      "palabra": "queso",
+      "significado": "Alimento elaborado a partir de la leche coagulada"
+    },
+    {
+      "palabra": "ropa",
+      "significado": "Prendas de vestir que cubren el cuerpo"
+    },
+    {
+      "palabra": "zapato",
+      "significado": "Prenda de vestir que cubre el pie"
+    },
+    {
+      "palabra": "sombrero",
+      "significado": "Prenda que cubre la cabeza"
+    },
+    {
+      "palabra": "cuerpo",
+      "significado": "Conjunto de órganos y sistemas de un ser vivo"
+    },
+    {
+      "palabra": "cabeza",
+      "significado": "Parte superior del cuerpo donde está el cerebro"
+    },
+    {
+      "palabra": "corazón",
+      "significado": "Órgano que bombea la sangre"
+    },
+    {
+      "palabra": "ojo",
+      "significado": "Órgano de la visión"
+    },
+    {
+      "palabra": "oído",
+      "significado": "Órgano del sentido de la audición"
+    },
+    {
+      "palabra": "boca",
+      "significado": "Abertura por donde se ingiere alimento y sale la voz"
+    },
+    {
+      "palabra": "mano",
+      "significado": "Extremidad superior del brazo con dedos"
+    },
+    {
+      "palabra": "pie",
+      "significado": "Extremidad inferior que sirve para caminar"
+    },
+    {
+      "palabra": "escuela",
+      "significado": "Institución donde se enseña y se aprende"
+    },
+    {
+      "palabra": "profesor",
+      "significado": "Persona que enseña una materia o disciplina"
+    },
+    {
+      "palabra": "estudiante",
+      "significado": "Persona que estudia una carrera o materia"
+    },
+    {
+      "palabra": "trabajo",
+      "significado": "Actividad que requiere esfuerzo para realizar algo"
+    },
+    {
+      "palabra": "dinero",
+      "significado": "Medio de intercambio usado para comprar bienes"
+    },
+    {
+      "palabra": "felicidad",
+      "significado": "Estado emocional de alegría y satisfacción"
+    },
+    {
+      "palabra": "tristeza",
+      "significado": "Sentimiento de melancolía y falta de alegría"
+    },
+    {
+      "palabra": "miedo",
+      "significado": "Emoción causada por la percepción de un peligro"
+    },
+    {
+      "palabra": "coraje",
+      "significado": "Valor y determinación para enfrentar dificultades"
+    },
+    {
+      "palabra": "verdad",
+      "significado": "Conformidad de lo que se dice con la realidad"
+    },
+    {
+      "palabra": "mentira",
+      "significado": "Expresión o acción contraria a la verdad"
+    },
+    {
+      "palabra": "justicia",
+      "significado": "Principio moral de dar a cada uno lo que merece"
+    },
+    {
+      "palabra": "paz",
+      "significado": "Estado de tranquilidad y armonía"
+    },
+    {
+      "palabra": "guerra",
+      "significado": "Conflicto armado entre naciones o grupos"
+    },
+    {
+      "palabra": "tiempo",
+      "significado": "Magnitud física que mide la duración de los sucesos"
+    },
+    {
+      "palabra": "espacio",
+      "significado": "Extensión tridimensional donde existen los cuerpos"
+    },
+    {
+      "palabra": "número",
+      "significado": "Entidad abstracta que expresa cantidad"
+    },
+    {
+      "palabra": "letra",
+      "significado": "Cada uno de los signos del alfabeto"
+    },
+    {
+      "palabra": "palabra",
+      "significado": "Unidad de lengua que tiene significado"
+    },
+    {
+      "palabra": "frase",
+      "significado": "Conjunto de palabras que forman sentido completo"
+    },
+    {
+      "palabra": "lenguaje",
+      "significado": "Sistema de comunicación mediante sonidos o signos"
+    },
+    {
+      "palabra": "conversación",
+      "significado": "Diálogo entre dos o más personas"
+    },
+    {
+      "palabra": "silencio",
+      "significado": "Ausencia de sonido o ruido"
+    },
+    {
+      "palabra": "ruido",
+      "significado": "Sonido fuerte o desagradable"
+    },
+    {
+      "palabra": "sonido",
+      "significado": "Sensación auditiva producida por vibraciones"
+    },
+    {
+      "palabra": "voz",
+      "significado": "Sonido producido por los seres vivos al hablar o cantar"
+    },
+    {
+      "palabra": "movimiento",
+      "significado": "Cambio de posición o lugar en el espacio"
+    },
+    {
+      "palabra": "velocidad",
+      "significado": "Magnitud que expresa la rapidez del movimiento"
+    },
+    {
+      "palabra": "fuerza",
+      "significado": "Capacidad de ejercer influencia o presión"
+    },
+    {
+      "palabra": "debilidad",
+      "significado": "Falta de fuerza o resistencia"
+    },
+    {
+      "palabra": "belleza",
+      "significado": "Cualidad de lo que es hermoso"
+    },
+    {
+      "palabra": "fealdad",
+      "significado": "Cualidad de lo que es feo o desagradable"
+    },
+    {
+      "palabra": "juventud",
+      "significado": "Período de la vida entre la infancia y la adultez"
+    },
+    {
+      "palabra": "vejez",
+      "significado": "Período avanzado de la vida"
+    },
+    {
+      "palabra": "muerte",
+      "significado": "Cese de las funciones vitales"
+    },
+    {
+      "palabra": "vida",
+      "significado": "Cualidad de lo que está vivo"
+    }
+  ]
+}
