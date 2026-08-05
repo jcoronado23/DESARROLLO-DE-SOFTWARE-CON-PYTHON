@@ -1,0 +1,98 @@
+REPORTE DEL DICCIONARIO INTELIGENTE
+======================================================================
+Cantidad total de palabras: 91
+Fecha de generación: 02/08/2026 23:00:59
+======================================================================
+Palabra              | Significado
+----------------------------------------------------------------------
+adiós                | Expresión de despedida
+agua                 | Líquido incoloro, inodoro e insípido esencial para la vida
+amarillo             | Color del oro y el limón
+amigo                | Persona con la que se mantiene una relación de afecto
+amor                 | El amor es un sentimiento intenso de afecto que busca la unión, el cuidado y el bienestar de otro ser o de uno mismo. Es una conexión profunda que se muestra a través de acciones de respeto, empatía y alegría por la existencia de la otra persona.
+animal               | Ser vivo que puede moverse voluntariamente
+azul                 | Color del cielo despejado
+belleza              | Cualidad de lo que es hermoso
+blanco               | Color de la nieve y la leche
+boca                 | Abertura por donde se ingiere alimento y sale la voz
+cabeza               | Parte superior del cuerpo donde está el cerebro
+canción              | Composición musical con letra para cantar
+carne                | Parte muscular de los animales que se usa como alimento
+casa                 | Edificio destinado a vivienda
+color                | Sensación producida por los rayos de luz en el ojo
+comida               | Sustancia que se ingiere para nutrirse
+conversación         | Diálogo entre dos o más personas
+coraje               | Valor y determinación para enfrentar dificultades
+corazón              | Órgano que bombea la sangre
+cuerpo               | Conjunto de órganos y sistemas de un ser vivo
+debilidad            | Falta de fuerza o resistencia
+dinero               | Medio de intercambio usado para comprar bienes
+dolor                | El dolor es una señal de alerta del sistema nervioso que avisa cuando hay un daño en el cuerpo. Se divide principalmente en dos tipos según su duración: dolor agudo y dolor crónico.
+día                  | Período de 24 horas o tiempo entre el amanecer y el atardecer
+escuela              | Institución donde se enseña y se aprende
+espacio              | Extensión tridimensional donde existen los cuerpos
+estrella             | Cuerpo celeste que brilla por luz propia
+estudiante           | Persona que estudia una carrera o materia
+fealdad              | Cualidad de lo que es feo o desagradable
+felicidad            | Estado emocional de alegría y satisfacción
+flor                 | Órgano reproductor de las plantas con pétalos
+frase                | Conjunto de palabras que forman sentido completo
+fruta                | Fruto comestible de ciertas plantas
+fuego                | Reacción química que produce luz y calor
+fuerza               | Capacidad de ejercer influencia o presión
+gato                 | Mamífero felino doméstico de pequeño tamaño
+guerra               | Conflicto armado entre naciones o grupos
+hola                 | Expresión de saludo
+justicia             | Principio moral de dar a cada uno lo que merece
+juventud             | Período de la vida entre la infancia y la adultez
+leche                | Líquido blanco nutritivo producido por las glándulas mamarias
+lenguaje             | Sistema de comunicación mediante sonidos o signos
+letra                | Cada uno de los signos del alfabeto
+libro                | Conjunto de páginas encuadernadas que contiene un texto
+luna                 | Satélite natural de la Tierra
+luz                  | Radiación electromagnética visible al ojo humano
+mano                 | Extremidad superior del brazo con dedos
+mentira              | Expresión o acción contraria a la verdad
+miedo                | Emoción causada por la percepción de un peligro
+movimiento           | Cambio de posición o lugar en el espacio
+muerte               | Cese de las funciones vitales
+música               | Arte de combinar sonidos de manera ordenada
+negro                | Ausencia de color o luz
+noche                | Período de tiempo entre el atardecer y el amanecer
+número               | Entidad abstracta que expresa cantidad
+ojo                  | Órgano de la visión
+oscuridad            | Ausencia de luz
+oído                 | Órgano del sentido de la audición
+palabra              | Unidad de lengua que tiene significado
+pan                  | Alimento hecho con harina, agua y sal, horneado
+papá                 | Papá significa en el lenguaje coloquial el padre o el varón que ha engendrado uno o más hijos, y también se usa como término afectivo.
+paz                  | Estado de tranquilidad y armonía
+perro                | Mamífero doméstico de la familia de los cánidos
+pez                  | Animal acuático vertebrado con branquias
+pie                  | Extremidad inferior que sirve para caminar
+pintura              | Arte de representar imágenes sobre una superficie
+profesor             | Persona que enseña una materia o disciplina
+pájaro               | Animal vertebrado con plumas y alas
+queso                | Alimento elaborado a partir de la leche coagulada
+rojo                 | Color del espectro situado entre el naranja y el magenta
+ropa                 | Prendas de vestir que cubren el cuerpo
+ruido                | Sonido fuerte o desagradable
+serpiente            | Una serpiente es un reptil sin patas con cuerpo alargado,, y como símbolo representa la transformación, la sabiduría y la salud. Su significado abarca la biología, la historia y las creencias de muchas culturas.
+silencio             | Ausencia de sonido o ruido
+sol                  | Estrella central del sistema solar
+sombrero             | Prenda que cubre la cabeza
+sonido               | Sensación auditiva producida por vibraciones
+sueño                | La palabra sueño tiene múltiples significados que van desde el proceso fisiológico de dormir y la somnolencia hasta las experiencias de imágenes y emociones que ocurren durante la fase REM o las ilusiones y anhelos de una persona.
+tiempo               | Magnitud física que mide la duración de los sucesos
+trabajo              | Actividad que requiere esfuerzo para realizar algo
+transistor           | Componente más fundamental en el diseño de circuitos electrónicos.
+tristeza             | La tristeza es una emoción básica, natural y humana que se caracteriza por un sentimiento de dolor, pérdida, desánimo o desilusión. Según la Real Academia Española, se define como el estado de ánimo que provoca decaimiento y suele llevar al llanto.
+vejez                | Período avanzado de la vida
+velocidad            | Magnitud que expresa la rapidez del movimiento
+verdad               | Conformidad de lo que se dice con la realidad
+verde                | Color del pasto y las hojas
+verdura              | Hortaliza comestible de plantas herbáceas
+vida                 | Cualidad de lo que está vivo
+voz                  | Sonido producido por los seres vivos al hablar o cantar
+zapato               | Prenda de vestir que cubre el pie
+árbol                | Planta leñosa de tallo único y ramificado

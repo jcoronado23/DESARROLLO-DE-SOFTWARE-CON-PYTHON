@@ -26,5 +26,19 @@ class Usuario:
 
         except Exception:
             print("La fecha no tiene el formato correcto")
+            
+    def calcularEdad(self):
+        try:
+            fecha_nacimiento = datetime(self.anno_nacimiento, self.mes_nacimiento, self.dia_nacimiento)
+            hoy = datetime.now()
+            
+            edad = hoy.year - fecha_nacimiento.year
+            if(hoy.month, hoy.day) < (fecha_nacimiento.month, fecha_nacimiento.day):
+                edad -= 1
+                
+            return edad
+        
+        except Exception:
+            return None
 
         

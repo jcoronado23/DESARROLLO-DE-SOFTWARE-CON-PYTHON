@@ -11,4 +11,4 @@ def validar_cedula(cedula):
     if not re.fullmatch(formato, cedula):
         raise FormatoCedulaError("El codigo debe tener el formato X-XXXX-XXXX. Ejemplo 4-0111-0222")
 
-    return True
+    return cedula

@@ -21,3 +21,16 @@ def crearTablaUsuario():
     """)
     conexion.commit()
     conexion.close()
+    
+def crearTablaCredenciales():
+    conexion = obtenerConexion()
+    cursor = conexion.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS credenciales (
+            usuario TEXT PRIMARY KEY,
+            nombre TEXT NOT NULL,
+            contrasena_hash TEXT NOT NULL,
+        )           
+    """)
+    conexion.commit()
+    conexion.close()
