@@ -1,70 +1,66 @@
-# 🐍 Desarrollo de Software con Python
+# 🐍 Python Software Development
 
-Bienvenido a mi repositorio de aprendizaje y desarrollo en Python.
+Welcome to my learning and development repository. 
 
-Aquí almaceno proyectos, prácticas y aplicaciones creadas durante mi formación como desarrollador.
-
----
-
-# 👨‍💻 Sobre mí
-
-Mi nombre es **Jairon Martinez Coronado**.
-
-Actualmente estudio programación en Python y desarrollo aplicaciones de escritorio utilizando Python y CustomTkinter.
-
-Este repositorio documenta mi progreso y la evolución de mis proyectos.
+Here you will find projects, practice exercises, and applications built throughout my journey as a software developer.
 
 ---
 
-# 📂 Proyectos
+# 👨‍💻 About Me
 
-## 📚 LexiPy - Diccionario Inteligente
+My name is **Jairon Martinez Coronado**.
 
-Aplicación desarrollada con:
+I am currently studying Python programming and developing desktop applications using Python and CustomTkinter. 
 
-- Python
-- SQLite
-- CustomTkinter
-
-Características:
-
-- 🔍 Buscar palabras
-- ➕ Agregar palabras
-- ✏️ Editar palabras
-- 🗑️ Eliminar palabras
-- 💾 Base de datos SQLite
-- 📄 Generación de reportes
+This repository documents my progress, skills, and project evolution.
 
 ---
 
-## Otros proyectos
+# 📂 Projects
 
-- Calculadora Científica
-- Conversor de Unidades
-- Temporizador
-- Aplicaciones con Tkinter
-- Ejercicios de Python
-- Programación Orientada a Objetos
-- Manejo de archivos
-- Bases de datos SQLite
+## 📚 LexiPy - Smart Dictionary
 
----
+A desktop application developed with:
+* Python
+* SQLite
+* CustomTkinter
 
-# 🛠 Tecnologías
-
-- Python
-- SQLite
-- Git
-- GitHub
-- CustomTkinter
-- Visual Studio Code
+### Key Features:
+* 🔍 **Word Search:** Look up terms quickly.
+* ➕ **Add Words:** Expand the dictionary database.
+* ✏️ **Edit Entries:** Modify existing definitions.
+* 🗑️ **Delete Words:** Remove entries easily.
+* 💾 **SQLite Database:** Persistent and local data storage.
+* 📄 **Report Generation:** Export data summaries.
 
 ---
 
-# 🎯 Objetivo
+## 🛠️ Other Projects & Exercises
 
-Continuar desarrollando proyectos que fortalezcan mis habilidades en programación y desarrollo de software.
+* **Scientific Calculator:** Advanced mathematical operations.
+* **Unit Converter:** Fast measurement conversions.
+* **Timer Application:** Time management tool.
+* **Tkinter Apps:** Desktop GUIs built with Python's standard library.
+* **Python Exercises:** Core language practice.
+* **Object-Oriented Programming (OOP):** Implementation of classes and inheritance.
+* **File Handling:** Reading and writing local files.
+* **SQLite Databases:** Basic CRUD operations and querying.
 
 ---
 
-## Gracias por visitar mi repositorio.
+# 💻 Tech Stack
+
+* **Language:** Python
+* **GUI Frameworks:** CustomTkinter, Tkinter
+* **Database:** SQLite
+* **Tools:** Git, GitHub, Visual Studio Code
+
+---
+
+# 🎯 Goals
+
+To keep building impactful projects that strengthen my programming skills and advance my career in software development.
+
+---
+
+### Thank you for visiting my repository!
