@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-import repositorioCredenciales
+import RepositorioCredenciales
 from InterfazUsuarios import VentanaUsuarios
 
 class VentanaLogin:
