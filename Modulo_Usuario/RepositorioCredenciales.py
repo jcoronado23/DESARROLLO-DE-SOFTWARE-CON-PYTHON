@@ -15,8 +15,8 @@ def crearUsuarioAdminDefecto():
     
     cursor.execute("SELECT usuario FROM credenciales")
     if cursor.fetchone() is None:
-        cursor.execute("INSERT INTO credenciales (usuario, contrasena_hash) VALUES (?, ?)"),
-        (usuario_defecto, hashearContraseña(contrasena_defecto))
+        cursor.execute("INSERT INTO credenciales (usuario, contrasena_hash) VALUES (?, ?)",
+        (usuario_defecto, hashearContraseña(contrasena_defecto)))
         conexion.commit()
         
     conexion.close()
