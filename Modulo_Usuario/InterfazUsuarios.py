@@ -164,6 +164,3 @@ class VentanaUsuarios:
         
         return cedula
         
-raiz = tk.Tk()
-app = VentanaUsuarios(raiz)
-raiz.mainloop()
