@@ -1,6 +1,6 @@
 import sqlite3
 
-nombreDB = r"C:\Users\Jairo\Repos_GitHub\DESARROLLO DE SOFTWARE CON PYTHON\LexiPy_diccionario_Inteligente\dictionary.db"
+nombreDB = "dictionary.db"
 
 
 def conectar():
